@@ -2,8 +2,9 @@
 Attendance
 https://forms.gle/3g6MoJyGHxDZn7BW6
 
-Colab  File
 
+Regex Colab File
+https://colab.research.google.com/github/michael-fawzy/ALX-T-Data-Analyst/blob/main/Regex_Practice.ipynb
 
 
 Regexr
@@ -12,6 +13,9 @@ https://regexr.com/
 
 Regex Resources
 https://www.thedataschool.com.au/grace-murphy/how-to-learn-regex-the-painless-way/
+
+Cleaning Colab  File
+https://colab.research.google.com/github/michael-fawzy/ALX-T-Data-Analyst/blob/main/Assessing_%26_Cleaning_Data_Practice.ipynb
 
 
 Questions Form
