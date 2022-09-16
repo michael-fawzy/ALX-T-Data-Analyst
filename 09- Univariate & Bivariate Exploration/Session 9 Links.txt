@@ -1,0 +1,21 @@
+
+Attendance
+https://forms.gle/3g6MoJyGHxDZn7BW6
+
+
+Error Bars
+https://datavizcatalogue.com/methods/error_bars.html
+
+https://www.youtube.com/watch?v=_7IUHwMNYG4
+
+
+Sample plots in Matplotlib
+https://matplotlib.org/3.3.1/tutorials/introductory/sample_plots.html#sphx-glr-tutorials-introductory-sample-plots-py
+
+Sample plots in Seaborn
+https://seaborn.pydata.org/examples/index.html
+
+
+Opinion
+https://forms.gle/PtvWm3VGZ2sg1kP39
+
